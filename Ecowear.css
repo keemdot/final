@@ -1,0 +1,15 @@
+h1 {
+  font-family: Consolas;
+  text-align: center;
+  font-size: 40px;
+
+}
+body{
+background-image: url("https://i.imgur.com/3IWz5EO.png") ;
+background-repeat:no-repeat;
+background-size:cover;
+}
+.links{
+  text-align: center;
+  font-family: "Lucida Calligraphy";
+}
